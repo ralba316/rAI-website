@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'rAI',
-  tagline: 'Future of AI',
-  favicon: 'img/favicon.ico',
+  title: 'rAI Labs',
+  tagline: 'Building AI infrastructure for the future',
+  favicon: 'img/rAI_simple.svg',
 
   // Set the production url of your site here
   url: 'https://rai-labs.com',
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'rAI',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/rAI_simple.svg',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Projects',
           },
-          {to: '/research', label: 'Research', position: 'left'},
+          {to: '/blog', label: 'Research', position: 'left'},
           {to: '/Company', label: 'Company', position: 'right'},
           {
             href: 'https://github.com/orgs/rAI-labs-github/repositories',

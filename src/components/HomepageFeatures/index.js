@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Products',
-    //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    //Svg: require('@site/static/img/products.svg').default,
     description: (
       <>
         Transforming AI infrastructure for the future
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'About Us',
-    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/aboutus.svg').default,
     description: (
       <>
         Join us in shaping the future of AI
@@ -32,7 +32,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
