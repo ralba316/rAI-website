@@ -10,7 +10,6 @@ authors:
     title: University of Houston
     url: https://www.linkedin.com/in/edgar-contreras-2332a215a/
     image_url: /img/Edgar.png
-tags: [AI]
 ---
 
 ## Abstract
