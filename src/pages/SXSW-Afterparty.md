@@ -6,8 +6,6 @@ Enjoy a night of music, drinks, and deep discussions about SXSW and AI.
 When: Saturday, March 16th, 8PM  
 Location: 21617 Quick Fox Dr, Pflugerville, TX 78660
 
-[Share QR Code](SXSW-QR.png)  
-
 Join WhatsApp Group: 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" height="20" alt="WhatsApp"/>](https://chat.whatsapp.com/CmVfoaBeclN73NZIFXeOqW)
 
