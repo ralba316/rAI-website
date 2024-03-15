@@ -16,8 +16,6 @@ We at rAI are a group of researchers and developers striving to achieve equitabl
 
 Are you passionate about AI and looking to make a difference? We're always looking for talented individuals to join our team.
 
-[Careers at rAI Labs](rai-labs.com/careers)
-
 ## Contact Us
 
 Interested in collaborating or learning more about our work? We'd love to hear from you.
