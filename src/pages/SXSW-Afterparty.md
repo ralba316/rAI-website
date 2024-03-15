@@ -1,4 +1,4 @@
-![SXSW Afterparty](SXSW.png)
+![SXSW Afterparty](sxsw.webp)
 
 Join us for the SXSW Afterparty and Raphael's 30th Birthday on Saturday March 16th 8PM.  
 Enjoy a night of music, drinks, and deep discussions about SXSW and AI.
