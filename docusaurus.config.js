@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'rAI Labs',
   tagline: 'Building AI infrastructure for the future',
-  favicon: 'img/rAI_simple.svg',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://rai-labs.com',
@@ -110,10 +110,10 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/VE2VZsNtAx',
               },
-              {
-                label: 'Twitter',
-                href: 'https://github.com/orgs/rAI-labs-github/repositories',
-              },
+ //             {
+ //               label: 'Twitter',
+ //               href: 'https://github.com/orgs/rAI-labs-github/repositories',
+ //             },
             ],
           },
           {
